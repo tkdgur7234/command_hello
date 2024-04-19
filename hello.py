@@ -1,4 +1,5 @@
-// 로컬에서 fetch 테스트
-// local repository modification
+<<<<<<< HEAD
+# fetch 테스트
+# GitHub modification
 print("hello.py")
 print("Tell his name")
